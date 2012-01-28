@@ -2,12 +2,12 @@
 Summary:	Add to GMPC an editor for song tags
 Summary(pl.UTF-8):	Wtyczka edycji znaczników dla odtwarzacza Gnome Music Player Client
 Name:		gmpc-plugin-tagedit
-Version:	0.20.0
+Version:	11.8.16
 Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
-Source0:	http://downloads.sourceforge.net/musicpd/%{source_name}-%{version}.tar.gz
-# Source0-md5:	38f9eec32198b373afc07f1022e98cdd
+Source0:	http://download.sarine.nl/Programs/gmpc/%{version}/%{source_name}-%{version}.tar.gz
+# Source0-md5:	f5876f5bca5ca99169c397e1f1b82f31
 URL:		http://gmpc.wikia.com/wiki/GMPC_PLUGIN_TAGEDIT
 BuildRequires:	autoconf >= 2.58
 BuildRequires:	automake
